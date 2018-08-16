@@ -1,0 +1,24 @@
+
+Config Header Info:
+    { CONFIG_CLIENT, "Client" },
+    { CONFIG_DURATION, "Duration" },
+    { CONFIG_TASKSIZE, "TaskSize" },
+    
+Task Info:
+    { TASK_UID, "UID" },
+    { TASK_GAMETYPE, "GAMETYPE" },
+    { TASK_RULES, "RULES" },
+    { TASK_REPS, "REP" },
+    { TASK_URL, "URL" },
+    { TASK_METHOD, "METHOD"},
+    
+GAMETYPE:
+    { GAME_TRANSACTION, "TRANSACTION" },
+    { GAME_HLJN, "HLJN" },
+    { GAME_KLSC, "KLSC" },
+    
+METHOD:
+    { RANDOM, "Random" },
+    { QUERY, "Query" },
+    { BETTING, "Betting" },
+    { OTHER, "Other" },
